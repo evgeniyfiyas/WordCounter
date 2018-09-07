@@ -1,0 +1,11 @@
+C:\Dropbox\_VSProj\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Dropbox\_VSProj\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+C:\Dropbox\_VSProj\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+C:\Dropbox\_VSProj\WordCounter\WordCounter\bin\Debug\Baseline.dll
+C:\Dropbox\_VSProj\WordCounter\WordCounter\bin\Debug\Oakton.dll
+C:\Dropbox\_VSProj\WordCounter\WordCounter\obj\Debug\WordCounter.csprojResolveAssemblyReference.cache
+C:\Dropbox\_VSProj\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
+C:\Dropbox\_VSProj\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+C:\Dropbox\_VSProj\WordCounter\WordCounter\obj\Debug\WordCounter.pdb
+C:\Dropbox\_VSProj\WordCounter\WordCounter\bin\Debug\StructureMap.dll
+C:\Dropbox\_VSProj\WordCounter\WordCounter\bin\Debug\StructureMap.xml
