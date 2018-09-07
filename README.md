@@ -10,4 +10,4 @@ Program reads text from file and calculates the frequency of occurrence of each 
 
 ### Authors
 
-* **Eugeniy Fiyas** - *Initial work* - [eugeniyfiyas](https://github.com/eugeniyfiyas)
+* **Eugeniy Fiyas** - *Initial work* - [evgeniyfiyas](https://github.com/evgeniyfiyas)
